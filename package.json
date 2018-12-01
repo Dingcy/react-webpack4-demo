@@ -2,8 +2,8 @@
   "name": "react-cli-xht",
   "version": "1.0.0",
   "description": "react-webpack4-cli_v1.0",
-  "keywords":"react webpack4 cli",
-  "author":"xiehaitao",
+  "keywords": [],
+  "author": "",
   "main": "index.js",
   "bin": {
     "xhtcli": "bin/cli.js"
@@ -19,8 +19,6 @@
     "fix": "npm run format && eslint --fix --ext .js src",
     "format": "prettier --single-quote --trailing-comma es5 --write \"src/**/*.js\""
   },
-  "keywords": [],
-  "author": "",
   "license": "ISC",
   "devDependencies": {
     "antd": "^3.6.6",

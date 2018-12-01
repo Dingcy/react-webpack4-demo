@@ -25,7 +25,7 @@ class UserInfo extends Component {
             </p>
           </div>
           )}
-        <button onClick={() => getUserInfo()}>请求用户信息</button>
+        <button onClick={() => getUserInfo()}>请求用户信息(本地mock)</button>
       </div>
     );
   }
