@@ -1,9 +1,7 @@
 # react-wepack4-cli-xht
-掘金地址:https://juejin.im/post/5b98ac085188255c5d567c68#heading-13
-简书地址:https://www.jianshu.com/p/91a4214b913b
 ##  使用脚手架
-`git clone git@github.com:xiehaitao0229/react-wepack4-xht.git`
-`cd react-webpack4-xht`
+`git clone https://github.com/Dingcy/react-webpack4-demo.git`
+`cd react-webpack4-demo`
 ```
 npm run dev  //  启动本地
 npm run build  //  打包线上环境

@@ -1,15 +1,15 @@
 import { INCREMENT, DECREMENT, RESET } from '../actions/couters';
 
 /*
-* 初始化state
-*/
+ * 初始化state
+ */
 const initState = {
   count: 0,
 };
 
 /*
-* reducer
-*/
+ * reducer
+ */
 export default function reducer(state = initState, action) {
   switch (action.type) {
     case INCREMENT:
